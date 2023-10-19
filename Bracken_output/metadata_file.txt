@@ -1,0 +1,248 @@
+Label_in_OTU_table	Sample_ID	Sex	Age	Age_group	methane_emitter	Breath_methane	High_Methanogen_phenotype 	Cohort 
+1	GS_1	male	56	Young adult	NA	NA	yes	B
+2	GS_10	female	77	Older adult	NA	NA	no	B
+3	GS_11	female	54	Young adult	NA	NA	no	B
+4	GS_12	male	78	Older adult	NA	NA	yes	B
+5	GS_13	male	72	Older adult	NA	NA	no	B
+6	GS_14	male	68	Older adult	NA	NA	yes	B
+7	GS_15	female	74	Older adult	NA	NA	yes	B
+8	GS_16	male	78	Older adult	NA	NA	no	B
+9	GS_17	male	76	Older adult	NA	NA	no	B
+10	GS_18	female	77	Older adult	NA	NA	yes	B
+11	GS_19	male	72	Older adult	NA	NA	no	B
+12	GS_2	female	66	Older adult	NA	NA	no	B
+13	GS_20	female	82	Older adult	NA	NA	yes	B
+14	GS_21	female	81	Older adult	NA	NA	no	B
+15	GS_22	male	83	Older adult	NA	NA	yes	B
+16	GS_23	male	57	Young adult	NA	NA	yes	B
+17	GS_24	female	54	Young adult	NA	NA	no	B
+18	GS_25	female	67	Older adult	NA	NA	no	B
+19	GS_26	male	70	Older adult	NA	NA	no	B
+20	GS_27	male	59	Young adult	NA	NA	no	B
+21	GS_28	female	78	Older adult	NA	NA	no	B
+22	GS_29	female	55	Young adult	NA	NA	yes	B
+23	GS_3	male	73	Older adult	NA	NA	no	B
+24	GS_30	female	62	Older adult	NA	NA	yes	B
+25	GS_31	male	55	Young adult	NA	NA	no	B
+26	GS_32	female	64	Older adult	NA	NA	no	B
+27	GS_33	female	48	Young adult	NA	NA	no	B
+28	GS_34	female	76	Older adult	NA	NA	no	B
+29	GS_35	female	75	Older adult	NA	NA	no	B
+30	GS_36	female	72	Older adult	NA	NA	no	B
+31	GS_37	male	51	Young adult	NA	NA	no	B
+32	GS_38	female	79	Older adult	NA	NA	yes	B
+33	GS_39	female	59	Young adult	NA	NA	no	B
+34	GS_4	male	54	Young adult	NA	NA	yes	B
+35	GS_40	male	73	Older adult	NA	NA	no	B
+36	GS_41	female	54	Young adult	NA	NA	yes	B
+37	GS_42	male	69	Older adult	NA	NA	no	B
+38	GS_43	female	76	Older adult	NA	NA	no	B
+39	GS_44	female	68	Older adult	NA	NA	no	B
+40	GS_45	female	55	Young adult	NA	NA	no	B
+41	GS_46	female	46	Young adult	NA	NA	no	B
+42	GS_47	female	48	Young adult	NA	NA	yes	B
+43	GS_48	male	77	Older adult	NA	NA	no	B
+44	GS_49	male	54	Young adult	NA	NA	no	B
+45	GS_5	female	66	Older adult	NA	NA	yes	B
+46	GS_50	female	64	Older adult	NA	NA	yes	B
+47	GS_51	male	70	Older adult	NA	NA	yes	B
+48	GS_52	female	69	Older adult	NA	NA	yes	B
+49	GS_53	female	71	Older adult	NA	NA	no	B
+50	GS_54	female	74	Older adult	NA	NA	no	B
+51	GS_55	female	61	Older adult	NA	NA	no	B
+52	GS_56	female	66	Older adult	NA	NA	no	B
+53	GS_57	male	68	Older adult	NA	NA	no	B
+54	GS_58	male	67	Older adult	NA	NA	no	B
+55	GS_59	female	70	Older adult	NA	NA	no	B
+56	GS_6	female	68	Older adult	NA	NA	yes	B
+57	GS_60	female	76	Older adult	NA	NA	no	B
+58	GS_61	female	74	Older adult	NA	NA	no	B
+59	GS_62	male	68	Older adult	NA	NA	no	B
+60	GS_63	female	77	Older adult	NA	NA	no	B
+61	GS_64	female	57	Young adult	NA	NA	yes	B
+62	GS_65	female	66	Older adult	NA	NA	no	B
+63	GS_66	female	55	Young adult	NA	NA	no	B
+64	GS_67	male	56	Young adult	NA	NA	no	B
+65	GS_68	male	54	Young adult	NA	NA	no	B
+66	GS_69	male	66	Older adult	NA	NA	no	B
+67	GS_7	female	56	Young adult	NA	NA	no	B
+68	GS_70	female	68	Older adult	NA	NA	yes	B
+69	GS_71	male	86	Older adult	NA	NA	yes	B
+70	GS_72	female	57	Young adult	NA	NA	no	B
+71	GS_73	female	50	Young adult	NA	NA	yes	B
+72	GS_74	female	66	Older adult	NA	NA	no	B
+73	GS_75	female	65	Older adult	NA	NA	yes	B
+74	GS_76	female	51	Young adult	NA	NA	no	B
+75	GS_77	female	73	Older adult	NA	NA	no	B
+76	GS_78	male	79	Older adult	NA	NA	no	B
+77	GS_79	female	86	Older adult	NA	NA	no	B
+78	GS_8	female	76	Older adult	NA	NA	yes	B
+79	GS_80	male	55	Young adult	NA	NA	no	B
+80	GS_81	female	76	Older adult	NA	NA	no	B
+81	GS_82	female	68	Older adult	NA	NA	yes	B
+82	GS_83	male	75	Older adult	NA	NA	no	B
+83	GS_84	male	76	Older adult	NA	NA	no	B
+84	GS_85	male	74	Older adult	NA	NA	yes	B
+85	GS_86	female	65	Older adult	NA	NA	no	B
+86	GS_87	male	62	Older adult	NA	NA	no	B
+87	GS_88	female	72	Older adult	NA	NA	yes	B
+88	GS_89	male	72	Older adult	NA	NA	no	B
+89	GS_9	male	72	Older adult	NA	NA	yes	B
+90	GS_90	female	61	Older adult	NA	NA	yes	B
+91	GS_91	female	56	Young adult	NA	NA	yes	B
+92	GS_92	male	76	Older adult	NA	NA	no	B
+93	GS_93	female	69	Older adult	NA	NA	yes	B
+94	GS_94	female	67	Older adult	NA	NA	no	B
+95	ORS_1	female	20	Young adult	no	1	no	A
+96	ORS_10	male	27	Young adult	no	1	no	A
+97	ORS_101	female	25	Young adult	yes	14	yes	A
+98	ORS_102	female	21	Young adult	yes	25	yes	A
+99	ORS_103	male	23	Young adult	no	1	no	A
+100	ORS_105	female	26	Young adult	no	1	no	A
+101	ORS_106	male	27	Young adult	no	2	no	A
+102	ORS_107	male	25	Young adult	no	1	no	A
+103	ORS_109	male	24	Young adult	no	3	no	A
+104	ORS_11	female	22	Young adult	no	1	no	A
+105	ORS_110	male	21	Young adult	no	1	no	A
+106	ORS_111	female	24	Young adult	no	2	no	A
+107	ORS_113	male	31	Young adult	yes	11	yes	A
+108	ORS_114	male	24	Young adult	no	3	no	A
+109	ORS_115	male	25	Young adult	no	1	no	A
+110	ORS_116	female	28	Young adult	no	4	yes	A
+111	ORS_117	female	25	Young adult	no	1	no	A
+112	ORS_118	male	25	Young adult	no	2	no	A
+113	ORS_119	female	21	Young adult	no	1	no	A
+114	ORS_12	female	27	Young adult	no	1	no	A
+115	ORS_120	female	24	Young adult	no	1	no	A
+116	ORS_121	male	32	Young adult	yes	7	yes	A
+117	ORS_122	female	24	Young adult	no	1	no	A
+118	ORS_123	male	22	Young adult	no	1	no	A
+119	ORS_124	female	25	Young adult	no	1	no	A
+120	ORS_125	male	21	Young adult	no	3	no	A
+121	ORS_126	male	23	Young adult	no	1	no	A
+122	ORS_127	male	21	Young adult	no	2	no	A
+123	ORS_128	female	24	Young adult	no	2	no	A
+124	ORS_13	male	26	Young adult	no	1	no	A
+125	ORS_131	female	21	Young adult	no	1	no	A
+126	ORS_132	male	22	Young adult	yes	7	yes	A
+127	ORS_133	male	28	Young adult	no	1	no	A
+128	ORS_134	female	34	Young adult	no	1	no	A
+129	ORS_14	male	23	Young adult	no	1	no	A
+130	ORS_16	female	28	Young adult	no	2	no	A
+131	ORS_17	female	20	Young adult	yes	61	yes	A
+132	ORS_18	female	21	Young adult	no	2	no	A
+133	ORS_19	female	22	Young adult	no	2	no	A
+134	ORS_20	male	23	Young adult	no	2	no	A
+135	ORS_21	female	20	Young adult	yes	30	yes	A
+136	ORS_22	female	23	Young adult	no	1	no	A
+137	ORS_23	female	24	Young adult	no	1	no	A
+138	ORS_24	female	22	Young adult	no	2	no	A
+139	ORS_25	male	27	Young adult	no	2	no	A
+140	ORS_26	male	27	Young adult	no	1	no	A
+141	ORS_28	male	21	Young adult	no	2	no	A
+142	ORS_29	male	28	Young adult	no	1	no	A
+143	ORS_3	female	27	Young adult	no	1	no	A
+144	ORS_31	female	21	Young adult	no	1	no	A
+145	ORS_32	female	25	Young adult	yes	40	yes	A
+146	ORS_33	male	28	Young adult	yes	8	yes	A
+147	ORS_35	male	25	Young adult	yes	57	yes	A
+148	ORS_37	female	21	Young adult	no	1	no	A
+149	ORS_38	male	24	Young adult	no	3	no	A
+150	ORS_40	female	24	Young adult	no	2	no	A
+151	ORS_42	male	21	Young adult	no	1	no	A
+152	ORS_43	female	26	Young adult	no	4	no	A
+153	ORS_45	female	22	Young adult	no	1	no	A
+154	ORS_47	male	21	Young adult	no	2	no	A
+155	ORS_48	female	24	Young adult	no	2	no	A
+156	ORS_49	female	21	Young adult	no	2	no	A
+157	ORS_51	female	20	Young adult	no	2	no	A
+158	ORS_52	male	23	Young adult	no	2	no	A
+159	ORS_55	female	23	Young adult	no	1	no	A
+160	ORS_56	female	19	Young adult	no	2	no	A
+161	ORS_57	female	22	Young adult	no	3	no	A
+162	ORS_59	male	21	Young adult	no	2	no	A
+163	ORS_61	male	21	Young adult	no	1	no	A
+164	ORS_65	male	31	Young adult	no	2	no	A
+165	ORS_68	male	21	Young adult	yes	75	yes	A
+166	ORS_7	female	37	Young adult	no	1	no	A
+167	ORS_70	male	21	Young adult	yes	9	yes	A
+168	ORS_72	male	20	Young adult	no	2	no	A
+169	ORS_74	male	28	Young adult	no	3	no	A
+170	ORS_75	female	20	Young adult	no	2	no	A
+171	ORS_77	male	25	Young adult	yes	46	yes	A
+172	ORS_79	female	23	Young adult	no	1	no	A
+173	ORS_8	female	27	Young adult	no	1	no	A
+174	ORS_82	male	27	Young adult	no	1	no	A
+175	ORS_85	male	23	Young adult	no	3	no	A
+176	ORS_86	female	21	Young adult	no	3	no	A
+177	ORS_87	male	33	Young adult	no	2	no	A
+178	ORS_89	female	27	Young adult	no	2	no	A
+179	ORS_90	female	23	Young adult	yes	8	yes	A
+180	ORS_91	female	23	Young adult	no	2	no	A
+181	ORS_93	male	23	Young adult	no	1	no	A
+182	ORS_94	male	25	Young adult	no	3	yes	A
+183	ORS_95	male	26	Young adult	no	1	no	A
+184	ORS_96	female	20	Young adult	no	1	no	A
+185	ORS_99	female	20	Young adult	no	1	no	A
+186	SRR9654970	female	32	Young adult	NA	NA	yes	C
+187	SRR9654971	female	22	Young adult	NA	NA	no	C
+188	SRR9654972	male	109	Centenarian	NA	NA	yes	C
+189	SRR9654973	female	25	Young adult	NA	NA	yes	C
+190	SRR9654974	female	37	Young adult	NA	NA	yes	C
+191	SRR9654975	female	25	Young adult	NA	NA	yes	C
+192	SRR9654976	female	32	Young adult	NA	NA	yes	C
+193	SRR9654977	female	25	Young adult	NA	NA	yes	C
+194	SRR9654978	male	48	Young adult	NA	NA	no	C
+195	SRR9654979	female	75	Older adult	NA	NA	yes	C
+196	SRR9654980	female	100	Centenarian	NA	NA	yes	C
+197	SRR9654981	female	70	Older adult	NA	NA	yes	C
+198	SRR9654982	female	75	Older adult	NA	NA	yes	C
+199	SRR9654983	female	102	Centenarian	NA	NA	no	C
+200	SRR9654984	female	100	Centenarian	NA	NA	no	C
+201	SRR9654985	female	104	Centenarian	NA	NA	yes	C
+202	SRR9654986	female	99	Older adult	NA	NA	no	C
+203	SRR9654987	female	106	Centenarian	NA	NA	yes	C
+204	SRR9654988	male	106	Centenarian	NA	NA	yes	C
+205	SRR9654989	female	107	Centenarian	NA	NA	no	C
+206	SRR9654990	female	105	Centenarian	NA	NA	yes	C
+207	SRR9654991	female	65	Older adult	NA	NA	yes	C
+208	SRR9654992	female	76	Older adult	NA	NA	yes	C
+209	SRR9654993	male	109	Centenarian	NA	NA	yes	C
+210	SRR9654994	female	105	Centenarian	NA	NA	no	C
+211	SRR9654995	female	101	Centenarian	NA	NA	no	C
+212	SRR9654996	male	100	Centenarian	NA	NA	no	C
+213	SRR9654997	female	101	Centenarian	NA	NA	no	C
+214	SRR9654998	male	100	Centenarian	NA	NA	no	C
+215	SRR9654999	female	99	Older adult	NA	NA	yes	C
+216	SRR9655000	female	101	Centenarian	NA	NA	no	C
+217	SRR9655001	male	99	Older adult	NA	NA	yes	C
+218	SRR9655002	female	98	Older adult	NA	NA	no	C
+219	SRR9655003	male	99	Older adult	NA	NA	no	C
+220	SRR9655004	male	100	Centenarian	NA	NA	no	C
+221	SRR9655005	female	105	Centenarian	NA	NA	yes	C
+222	SRR9655006	male	46	Young adult	NA	NA	yes	C
+223	SRR9655007	male	75	Older adult	NA	NA	yes	C
+224	SRR9655008	female	102	Centenarian	NA	NA	yes	C
+225	SRR9655009	female	100	Centenarian	NA	NA	no	C
+226	SRR9655010	male	104	Centenarian	NA	NA	yes	C
+227	SRR9655011	female	99	Older adult	NA	NA	yes	C
+228	SRR9655012	male	106	Centenarian	NA	NA	no	C
+229	SRR9655013	female	106	Centenarian	NA	NA	yes	C
+230	SRR9655014	female	107	Centenarian	NA	NA	yes	C
+231	SRR9655015	male	105	Centenarian	NA	NA	yes	C
+232	SRR9655016	male	65	Older adult	NA	NA	yes	C
+233	SRR9655017	male	76	Older adult	NA	NA	yes	C
+234	SRR9655018	female	109	Centenarian	NA	NA	no	C
+235	SRR9655019	male	105	Centenarian	NA	NA	yes	C
+236	SRR9655020	female	101	Centenarian	NA	NA	yes	C
+237	SRR9655021	female	100	Centenarian	NA	NA	no	C
+238	SRR9655022	female	101	Centenarian	NA	NA	yes	C
+239	SRR9655023	female	100	Centenarian	NA	NA	yes	C
+240	SRR9655024	female	99	Older adult	NA	NA	yes	C
+241	SRR9655025	female	101	Centenarian	NA	NA	yes	C
+242	SRR9655026	female	99	Older adult	NA	NA	no	C
+243	SRR9655027	female	98	Older adult	NA	NA	no	C
+244	SRR9655028	female	99	Older adult	NA	NA	yes	C
+245	SRR9655029	female	100	Centenarian	NA	NA	yes	C
+246	SRR9655030	male	105	Centenarian	NA	NA	yes	C
+247	SRR9655031	female	46	Young adult	NA	NA	no	C
